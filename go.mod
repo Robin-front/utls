@@ -1,4 +1,4 @@
-module github.com/wwhtrbbtt/utls
+module github.com/Robin-front/utls
 
 go 1.18
 
